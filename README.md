@@ -9,7 +9,7 @@
 
 ### 시스템 구조
 
-![](System Structure.png)
+![system_structure](https://lab.ssafy.com/se1620236/final-pjt/-/raw/master/System%20Structure.png)
 
 
 
@@ -93,7 +93,7 @@
 
 ## 데이터베이스 모델링 (ERD)
 
-![ERD](./final-pjt-back/ERD.png)
+![ERD](https://lab.ssafy.com/se1620236/final-pjt/-/raw/master/final-pjt-back/ERD.png)
 
 ## 배포 서버 URL
 
