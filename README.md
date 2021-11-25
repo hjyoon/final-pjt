@@ -1,4 +1,5 @@
 # final-pjt
+![Screenshot](https://lab.ssafy.com/se1620236/final-pjt/-/raw/master/Screenshot.png)
 
 ## 팀원 정보 및 업무 분담 내역
 
